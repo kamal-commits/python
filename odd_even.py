@@ -5,3 +5,5 @@ if r==0:
 
 else:
 	print("ODD")	
+
+
